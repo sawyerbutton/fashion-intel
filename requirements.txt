@@ -1,0 +1,28 @@
+# Web crawling
+playwright>=1.40.0
+requests>=2.31.0
+
+# Google Gemini API
+google-genai>=1.0.0
+
+# Database
+# SQLite is built-in, no extra package needed
+
+# Scheduling
+APScheduler>=3.10.4
+
+# Dashboard
+streamlit>=1.30.0
+
+# Telegram Bot
+python-telegram-bot>=20.7
+
+# Environment config
+python-dotenv>=1.0.0
+
+# Overseas crawlers
+feedparser>=6.0.0
+praw>=7.7.0
+
+# Utilities
+Pillow>=10.0.0
